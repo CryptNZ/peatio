@@ -7,12 +7,12 @@
   type: WithdrawChannelSatoshi
 - id: 400
   key: bank
-  currency: cny
+  currency: nzd
   fixed: 2
   fee_max: 0
-  min: 100
+  min: 50
   max: 50000
-  fee: 0.003
+  fee: 0.50
   proportion: true
   inuse: true
   type: WithdrawChannelBank
